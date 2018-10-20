@@ -1,3 +1,4 @@
+private int point;
 void Awake()
 {
 
@@ -14,4 +15,5 @@ void Update()
 		aoyama[i] += 1kg;
 	}
 }
+
 
