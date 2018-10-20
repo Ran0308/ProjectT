@@ -1,3 +1,7 @@
+void Awake()
+{
+
+}
 void change()
 {
 	Position += 1;
@@ -10,3 +14,4 @@ void Update()
 		aoyama[i] += 1kg;
 	}
 }
+
