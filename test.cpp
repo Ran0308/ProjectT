@@ -1,3 +1,4 @@
+#include <string>
 private int point;
 void Awake()
 {
@@ -15,5 +16,8 @@ void Update()
 		aoyama[i] += 1kg;
 	}
 }
+
+private string s;
+
 
 
